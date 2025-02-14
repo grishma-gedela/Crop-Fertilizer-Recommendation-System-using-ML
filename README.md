@@ -22,8 +22,8 @@ pH = 6.1, Rainfall = 202 mm
 ```bash
 Recommended Crop → Rice 🌾
 ```
-
-<br><br>## 🔬 Methodology
+<br><br>
+## 🔬 Methodology
 ### 1️⃣ Dataset Collection
 - Pre-existing crop dataset containing **soil properties & climate conditions**.
 
