@@ -1,7 +1,7 @@
 # 🌾 Crop & Fertilizer Recommendation System
 
 ## 📌 Overview
-Farmers often face challenges in selecting the right crop and fertilizer for their soil conditions, leading to lower yields and financial losses. Our **AI-powered Crop & Fertilizer Recommendation System** leverages **machine learning** to provide data-driven insights for optimizing agricultural productivity.
+Farmers often face challenges in selecting the right crop and fertilizer for their soil conditions, leading to lower yields and financial losses. Our **AI-powered Crop & Fertilizer Recommendation System** leverages **machine learning** to provide data-driven insights for optimizing agricultural productivity.<br><br>
 
 ## 🎯 Problem Statement
 ### 🚜 Farmers struggle to determine the best crop and fertilizer for their soil conditions, resulting in:
