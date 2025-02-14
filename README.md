@@ -23,7 +23,7 @@ pH = 6.1, Rainfall = 202 mm
 Recommended Crop → Rice 🌾
 ```
 
-## 🔬 Methodology
+<br><br>## 🔬 Methodology
 ### 1️⃣ Dataset Collection
 - Pre-existing crop dataset containing **soil properties & climate conditions**.
 
@@ -38,7 +38,8 @@ Recommended Crop → Rice 🌾
 
 ### 5️⃣ Prediction & Evaluation
 - Assessing accuracy and **recommending the best crop** based on environmental factors.
-
+  
+<br><br>
 ## 🛠 Tools & Technologies
 - **Programming Language:** Python 🐍
 - **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib 📊
@@ -46,28 +47,29 @@ Recommended Crop → Rice 🌾
 - **Development Environment:** Jupyter Notebook 📓
 - **Dataset:** Crop Dataset 🌱
 
+<br><br>
 ## 📊 Dataset Overview
 ### The dataset contains the following agricultural parameters:
 ✅ **Nitrogen (N), Phosphorus (P), Potassium (K)**  
 ✅ **Temperature, Humidity, pH, Rainfall**  
 ✅ **Target variable:** Recommended Crop 🌾
-
+<br><br>
 ## 🚀 Key Features
 ### ✔ AI-powered crop recommendation based on soil & climate data.  
 ✔ **Improved farming efficiency** through precise suggestions.  
 ✔ **Machine Learning-driven decision-making** for better agricultural outcomes.  
 ✔ **User-friendly implementation** with clear inputs & outputs.
-
+<br><br>
 ## 🎯 Results & Performance
 ### - **Trained Decision Tree Classifier** on agricultural data.  
 - **Model tested on unseen data** to ensure accurate predictions.  
 - **Feature scaling** (MinMaxScaler) used for better learning efficiency.
-
+<br><br>
 ## 📌 Conclusion
 ### ✅ Accurate crop recommendations help farmers make **data-driven decisions**.  
 ✅ Analyzes key factors like **soil nutrients, weather conditions, and pH levels**.  
 ✅ **Boosts agricultural productivity** and promotes **sustainable farming**.  
-
+<br><br>
 ## 🏆 Future Scope
 ### 🔹 **Integration with IoT devices** for real-time soil monitoring.  
 🔹 **Mobile app implementation** for easier access to recommendations.  
